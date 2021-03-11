@@ -23,8 +23,8 @@
 
     <TextView
         android:id="@+id/txtview"
-        android:layout_width="368dp"
-        android:layout_height="586dp"
+        android:layout_width="576dp"
+        android:layout_height="224dp"
         android:background="@android:color/holo_orange_light"
         android:gravity="center"
         android:text="@string/_0"
