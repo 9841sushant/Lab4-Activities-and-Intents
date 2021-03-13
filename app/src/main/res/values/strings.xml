@@ -1,6 +1,59 @@
 <resources>
-    <string name="app_name">Hello Toast</string>
-    <string name="say_hello">Say Hello</string>
-    <string name="_0">0</string>
-    <string name="count">Count</string>
+    <string name="app_name">TwoActivities</string>
+    <string name="pedro">Pedro</string>
+    <string name="messi">Messi</string>
+    <string name="david_villa">David Villa</string>
+    <string name="article_title">The Story Of Pedro</string>
+    <string name="article_title1">The Story Of Messi</string>
+    <string name="article_title2">The Story Of David Villa</string>
+    <string name="article_pedro">In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the <i>Let It Be</i> album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series.
+        For more information, see the Beatles Time Capsule at www.rockument.com.
+\n\n
+This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on <i>The Lost Lennon Tapes Vol. 28</i>, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions.
+\n\n
+<b>Highlights include:</b>
+\n\n
+<b><i>Cry for a Shadow</i></b> - Many a Beatle fanatic started down the outtake road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs.
+\n\n
+<b><i>My Bonnie</i></b> and <b><i>Ain’t She Sweet</i></b> — At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal).
+\n\n
+<b><i>Searchin</i></b> — A Jerry Leiber - Mike Stoller comedy song that was a hit for the Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best on drums. The high falsetto is George, who also plays a hesitant lead guitar. This is from their first audition for Decca Records in London on Jan 1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a similar arrangement, Pigpen doing the Paul vocals. A live version is available on outtake records featuring the Dead joined by the Beach Boys!
+\n\n
+<b><i>Love Me Do</i></b> — An early version of the song, played a bit slower and with more of a blues feeling, and a cool bossa-nova beat in middle. Paul had to sing while John played harmonica — a first for the group. Pete Best played drums on this version.
+\n\n
+<b><i>She Loves You – Till There Was You – Twist and Shout</i></b> — Live at the Princess Wales Theatre by Leicester Square in London, attended by the Queen. “Till There Was You” (by Meredith Wilson) is from the musical The Music Man and a hit for Peggy Lee in 1961. Before playing it, Paul said it was recorded by his favorite American group, “Sophie Tucker” (which got some laughs). At the end, John tells the people in the cheaper seats to clap their hands, and the rest to “rattle your jewelry” and then announces “Twist and Shout” (a song by Bert Russell and Phil Medley that was first recorded in 1962 by the Isley Brothers). A film of the performance shows the Queen smiling at John’s remark.
+\n\n
+<b><i>Leave My Kitten Alone</i></b> — One of the lost Beatle songs recorded during the “Beatles For Sale” sessions but never released. This song, written by Little Willie John, Titus Turner, and James McDougal, was a 1959 R&amp;B hit for Little Willie John and covered by Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker.
+\n\n
+<b><i>One After 909</i></b> — A song recorded for the <i>Let It Be</i> album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an R&amp;B feel to it.</string>
+    <string name="article_messi"><b>Lionel Messi</b> was born in Santa Fe Province on 24 June 1987. At the age of five, he started playing football for Grandoli, a club coached by his father. In 1995, Messi switched to Newell\'s Old Boys. At the age of 11, he was diagnosed with a growth hormone deficiency.
+\n\n
+ River Plate showed interest in Messi\'s progress, but did not have enough money to pay for the treatment of the illness, which cost over £500 a month. As Argentina\'s economy was collapsing, Carles Rexach, then sporting director of FC Barcelona, was made aware of Messi\'s talent, and Barcelona signed him after watching him play, offering to pay for the medical bills if he was willing to move to start a new life in Spain. His family moved with the young player to Europe and he starred in the club’s youth teams.
+
+
+
+He soon found himself starting for the Barcelona B team, averaging more than a goal per game, by scoring 35 goals in 30 matches.
+
+
+
+In October 2004, Messi made his official début for the first team against RCD Espanyol, becoming the third-youngest player ever to play for FC Barcelona. When he scored his first senior goal for the club against Albacete Balompié on May 1, 2005, Messi was 17 years, 10 months and 7 days old, becoming the youngest to ever score in a La Liga game for FC Barcelona.
+River Plate showed interest in Messi\'s progress, but did not have enough money to pay for the treatment of the illness, which cost over £500 a month. As Argentina\'s economy was collapsing, Carles Rexach, then sporting director of FC Barcelona, was made aware of Messi\'s talent, and Barcelona signed him after watching him play, offering to pay for the medical bills if he was willing to move to start a new life in Spain. His family moved with the young player to Europe and he starred in the club’s youth teams.
+
+
+
+He soon found himself starting for the Barcelona B team, averaging more than a goal per game, by scoring 35 goals in 30 matches.
+
+
+
+In October 2004, Messi made his official début for the first team against RCD Espanyol, becoming the third-youngest player ever to play for FC Barcelona. When he scored his first senior goal for the club against Albacete Balompié on May 1, 2005, Messi was 17 years, 10 months and 7 days old, becoming the youngest to ever score in a La Liga games.
+</string>
+    <string name="article_villa"><b>David Villa</b>
+        \n\n
+        I must admit I am really perplexed about what is going on in regards to David Villa. Despite doing well when he has been selected, he has struggled to get much playing time with Barcelona this season. Not surprisingly, this has led to plenty of rumours of his impending departure either at the end of the season or possibly even during this current January transfer window.
+David Villa joined Barcelona in May 2010 from Valencia on a four year deal for a reported transfer fee of 40 million Euros. This was just prior to him playing an important part in Spain winning the 2010 World Cup in South Africa. The 2010/11 season was very successful for both the player and Barcelona. Villa (V) scored 23 goals as part of what became known as the M-V-P strikeforce playing alongside Lionel Messi (M) and Pedro Rodriguez (P). Of all the goals Villa scored that season, the most memorable were his two in our 5-0 “Manita” destruction of Real Madrid at Camp Nou and his brilliant effort in the Champions League Final against Manchester United which probably clinched our wonderful victory. With David Villa playing an important role in Barcelona winning both La Liga and the Champions League that season he had well and truly justified the expense involved in his signing
+        David Villa had scored nine goals for Barcelona in the 2011/12 season when he unfortunately broke his leg in the Club World Cup Semi Final against Al Sadd in Yokohama in December 2011. He did not play again that season and his absence proved costly for Barcelona. It is impossible to say what would have happened, but I would loved David Villa to have been on the field as we desperately strove to score in that ill-fated  Champions League Semi-Final against Chelsea. His presence may well have yielded the goal we needed but, alas, we will never know.
+
+Fortunately, David Villa made a full recovery from his serious injury and returned to competitive action as a second half substitute in Barcelona’s first La Liga game of the season against Real Sociedad. I am sure that all Barcelona supporters shared my delight as he marked his return with a goal. As the season progressed, David Villa has continued to score regularly with his most important goal being a late winner away to Sevilla, again as a second half substitute. As I celebrated that goal, I thought and hoped that the M-V-P strikeforce could well be back this season.
+
+It hasn’t quite worked out that way. Despite scoring these goals, David Villa has struggled to get a lot of playing time since his return. Initially, this could be justified on medical grounds as it is important to be careful with a player returning from a long term injury. However, it now seems that there could well  be more to it than that. In the game against Granada, David Villa and Messi had what appeared to be an argument on the field when Messi demanded that Villa pass him the ball quicker. This led to rumours of a rift between Villa and Messi. Naturally, both players and the club have denied there is any such rift but who can be certain. The only two games Villa has started since that game are the two games that Messi did not start. Make of that what you like. This is despite both Pedro and Alexis struggling to score when they have played, at least until Pedro’s double against Espanyol. Watching the game against Valladolid, I thought on several occasions that Villa would have probably scored two or three goals from the chances that Alexis and Pedro did not.</string>
 </resources>

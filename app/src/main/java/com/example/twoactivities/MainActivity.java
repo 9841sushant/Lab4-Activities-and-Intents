@@ -10,31 +10,42 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button btn_SayHello;
-    private Button btn_count;
-    private TextView counter;
-    private int count = 0;
-    private String message = "Hello!";
+    private Button para1;
+    private Button para2;
+    private Button para3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        btn_SayHello = findViewById(R.id.btnsh);
-        btn_count = findViewById(R.id.btncnt);
-        counter = findViewById(R.id.txtview);
-        btn_count.setOnClickListener(new View.OnClickListener() {
+        para1=findViewById(R.id.btn_1st);
+        para2=findViewById(R.id.btn_2nd);
+        para3=findViewById(R.id.btn_3rd);
+        para1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                count = count + 1;
-                counter.setText("" + count);
+                String header = getResources().getString(R.string.article_title);
+                String article = getResources().getString(R.string.article_pedro);
+                Intent intent = SecondActivity.makeIntent(MainActivity.this,header,article );
+
+                startActivity(intent);
             }
         });
-        btn_SayHello.setOnClickListener(new View.OnClickListener() {
+        para2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = SecondActivity.makeIntent(MainActivity.this,message,count);
-
+                String header = getResources().getString(R.string.article_title1);
+                String article = getResources().getString(R.string.article_messi);
+                Intent intent = SecondActivity.makeIntent(MainActivity.this,header,article );
+                startActivity(intent);
+            }
+        });
+        para3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String header = getResources().getString(R.string.article_title2);
+                String article = getResources().getString(R.string.article_villa);
+                Intent intent = SecondActivity.makeIntent(MainActivity.this,header,article );
                 startActivity(intent);
             }
         });

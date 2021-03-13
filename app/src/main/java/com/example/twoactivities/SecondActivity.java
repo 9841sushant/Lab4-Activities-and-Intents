@@ -8,30 +8,25 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class SecondActivity extends AppCompatActivity {
-    private TextView ShowCount;
-    private TextView HelloMsg;
+    private TextView heading;
+    private TextView article;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
-        ShowCount=findViewById(R.id.txtCount);
-        HelloMsg=findViewById(R.id.txtHello);
+        heading=findViewById(R.id.article_heading);
+        article=findViewById(R.id.article);
         Intent intent=getIntent();
-        String message=intent.getStringExtra("MSG");
-        int count=intent.getIntExtra("COUNT",0);
-        HelloMsg.setText(message);
-        ShowCount.setText(""+count);
-
-
-
-
+        String head=intent.getStringExtra("HEADER");
+        String art=intent.getStringExtra("ARTICLE");
+        heading.setText(head);
+        article.setText(art);
     }
-    public static Intent makeIntent(Context context,  String msg,int data){
+    public static Intent makeIntent(Context context, String header, String art){
         Intent intent=new Intent(context,SecondActivity.class);
-        intent.putExtra("MSG",msg);
-        intent.putExtra("COUNT",data);
-
+        intent.putExtra("HEADER",header);
+        intent.putExtra("ARTICLE",art);
 
         return intent;
     }
