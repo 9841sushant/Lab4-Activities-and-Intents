@@ -4,14 +4,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".SecondActivity"
-    android:padding="10dp">
+    android:padding="@dimen/padding_style">
 
     <TextView
         android:id="@+id/article_heading"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/purple_500"
-        android:padding="10dp"
+        android:padding="@dimen/padding_style"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
         android:textColor="@color/white"
         android:textStyle="bold"/>
@@ -29,7 +29,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:lineSpacingExtra="5sp"
-                android:padding="10dp"
+                android:padding="@dimen/padding_style"
                 />
         </LinearLayout>
     </ScrollView>
