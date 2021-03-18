@@ -6,3 +6,5 @@
 ### Landscape
 ![](./lab4hwss3.jpg)
 ![](./lab4hwss4.jpg)
+### GIF
+![GIF](lab4gif.gif)
